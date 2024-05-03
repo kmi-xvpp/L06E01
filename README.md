@@ -8,6 +8,7 @@ Vzhledem k tomu, že samotná paralelizace nejde otestovat, tak k úkolu nejsou 
 Flipper 0 flips coin 10000000-times.
 Flipper 1 flips coin 10000000-times.
 Flipper 2 flips coin 10000000-times.
+Printer started.
 Flipped head 50.017% and Tail 49.983% times.
 Flipped head 50.011% and Tail 49.989% times.
 Flipped head 49.995% and Tail 50.005% times.
