@@ -5,8 +5,8 @@ Vytvořte modul `coin_flip_statistics.py`, který vytvoří tři vlákna, které
 Vzhledem k tomu, že samotná paralelizace nejde otestovat, tak k úkolu nejsou testy.
 
 ```python
-Flipper 0 flips coin 10000000-times.Flipper 1 flips coin 10000000-times.
-
+Flipper 0 flips coin 10000000-times.
+Flipper 1 flips coin 10000000-times.
 Flipper 2 flips coin 10000000-times.
 Flipped head 50.017% and Tail 49.983% times.
 Flipped head 50.011% and Tail 49.989% times.
